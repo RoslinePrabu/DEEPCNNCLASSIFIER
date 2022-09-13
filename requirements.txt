@@ -12,7 +12,3 @@ ensure==1.0.2
 joblib
 
 -e .
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
